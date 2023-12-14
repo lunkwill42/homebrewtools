@@ -1,0 +1,2 @@
+[console_scripts]
+labeltile = homebrewtools.labeltile:main

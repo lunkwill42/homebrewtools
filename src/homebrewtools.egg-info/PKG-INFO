@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: homebrewtools
+Version: 0.1
+Summary: My homebrewtools
+Author-email: Morten Brekkevold <morten@brekkevold.no>
+License: MIT
+Project-URL: Homepage, https://github.com/lunkwill42/homebrewtools/
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: Pillow
+
+# Homebrew programs and scripts
+
+This repository is just a small collection of programs and scripts useful for
+some homebrewing activities.
+
+Currently, the collection consists of a single program to create printable A4
+sheets of multiple tiled beer labels.

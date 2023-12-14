@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/homebrewtools/__init__.py
+src/homebrewtools/labeltile.py
+src/homebrewtools.egg-info/PKG-INFO
+src/homebrewtools.egg-info/SOURCES.txt
+src/homebrewtools.egg-info/dependency_links.txt
+src/homebrewtools.egg-info/entry_points.txt
+src/homebrewtools.egg-info/requires.txt
+src/homebrewtools.egg-info/top_level.txt
